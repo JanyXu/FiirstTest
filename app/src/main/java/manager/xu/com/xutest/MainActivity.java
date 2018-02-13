@@ -1,3 +1,4 @@
+
 package manager.xu.com.xutest;
 
 import android.support.v7.app.ActionBarActivity;
@@ -32,7 +33,9 @@ public class MainActivity extends BaseActivity<MainPresenter> {
         recyclerView.setAdapter(adapter);
 
     }
-
+    /**
+    djdj
+    **/
     class ImgAdapter extends RecyclerView.Adapter<ImgAdapter.ViewHolder>{
 
         @Override
