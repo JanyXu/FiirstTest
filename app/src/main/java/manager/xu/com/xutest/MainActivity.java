@@ -18,7 +18,7 @@ import manager.xu.com.xutest.base.BaseActivity;
 
 @RequiresPresenter(MainPresenter.class)
 public class MainActivity extends BaseActivity<MainPresenter> {
-//test
+//testggg
     private RecyclerView recyclerView;
     private RecyclerView.LayoutManager layoutManager;
 
